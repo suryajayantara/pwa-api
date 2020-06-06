@@ -1,8 +1,7 @@
 {
   "datas": [
-    {"id":1,"nama":"Surya Jayantara"},
-    {"id":2,"nama":"Andre Prayoga"},
-    {"id":3,"nama":"Arya Chandrayaba"},
-    {"id":4,"nama":"Dewa Gede Aditya Putra"},
-  ];
+    {"id":1,
+     "nama":"Surya Jayantara"
+    }
+  ]
 }
