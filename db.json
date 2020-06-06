@@ -1,9 +1,16 @@
 {
   "datas": [
     {"id":1,
-     "name":"Andre Prayoga"}
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+     "name":"Andre Prayoga",
+    },
+    {"id":2,
+     "name":"Surya Jayantara",
+    },
+    {"id":3,
+     "name":"Arya Candrayana",
+    },
+    {"id":4,
+     "name":"Simayodika",
+    }
+  ]
 }
